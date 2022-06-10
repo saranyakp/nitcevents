@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751656561979",
+    "firebase_url": "https://nitcevents-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nitcevents",
+    "storage_bucket": "nitcevents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751656561979:android:a7e6fa28d1c2e30e99db1e",
+        "android_client_info": {
+          "package_name": "com.example.nitcevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751656561979-i04hsh8co2s8245ta11dq2np84kmfica.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nitcevents",
+            "certificate_hash": "20a9a682525609fa9ac448e2b33d763a264566b6"
+          }
+        },
+        {
+          "client_id": "751656561979-sj4qja0br6nivgimqh3f0qchhsq3rvo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT7KcLhZZQVkxnZQDC2I9hbhkUYbRBaH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751656561979-sj4qja0br6nivgimqh3f0qchhsq3rvo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
