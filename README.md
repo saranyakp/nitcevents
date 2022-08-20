@@ -1,6 +1,6 @@
 # nitcevents
 
-NITC Events Android Application
+NITC Events Android Application: 
 Build an Android App(NITC Events) using flutter/dart. With the help of this app, the users will be able to track every event happening in NITC and also will be able to choose an event according to their preference.
 Tech Stack:- 
 Framework : Flutter (Dart)
